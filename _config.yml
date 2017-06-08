@@ -3,23 +3,23 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: anthony
+subtitle: DO MORE AND SAY LESS
 description:
-author: 定春
+author: anthony
 language: zh-CN
-timezone:
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://Pumpkin1111.github.io/blog
-root: /blog
+url: https://Pumpkin1111.github.io
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: blog
+public_dir: ./
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
@@ -67,5 +67,5 @@ theme: material
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy: https://Pumpkin1111.github.io/blog/index.html
-  type:
+#deploy:
+#  type:

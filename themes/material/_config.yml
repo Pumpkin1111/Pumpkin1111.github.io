@@ -95,7 +95,7 @@ card_elevation: 2
 # Copyright
 # Specify the date when the site was setup.
 #   For example, if you set it as 2015, then footer will show '© 2015 - 2017'
-copyright_since:
+copyright_since: 2017 
 
 # Qrcode for redirect at other device
 #   use: choose which method to generate the qrcode for each posts.
@@ -121,24 +121,24 @@ toc:
 # SNS Menu
 sns:
     email: youremail@email.com
-    facebook: "https://www.facebook.com/facebook"
-    twitter: "https://twitter.com/twitter"
-    googleplus: "https://www.google.com/"
-    weibo:
-    instagram:
-    tumblr:
-    github:
-    linkedin:
-    zhihu:
-    bilibili:
-    telegram:
+#    facebook: "https://www.facebook.com/facebook"
+#    twitter: "https://twitter.com/twitter"
+#    googleplus: "https://www.google.com/"
+#    weibo:
+#    instagram:
+#    tumblr:
+#    github:
+#    linkedin:
+#    zhihu:
+#    bilibili:
+#    telegram:
 
 # SNS Share Switch
 sns_share:
-    twitter: true
-    facebook: true
-    googleplus: true
-    weibo: true
+    twitter: false
+    facebook: false
+    googleplus: false
+    weibo: false
     linkedin: false
     qq: false
     telegram: false
@@ -146,7 +146,7 @@ sns_share:
 # Sidebar Customize
 sidebar:
     dropdown:
-        Email Me:
+        Email Me: 
             link: "#"
             icon: email
     homepage:
