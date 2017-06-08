@@ -28,12 +28,12 @@ url:
 # ---------------------------------------------------------------
 
 # Schemes
-# scheme: Paradox
-scheme: Isolation
+scheme: Paradox
+# scheme: Isolation
 
 # UI & UX: slogan, color, effect
 uiux:
-    slogan: "Hi, nice to meet you"
+    slogan: "我总觉得对你的爱很美"
     theme_color: "#0097A7"
     theme_sub_color: "#00838F"
     hyperlink_color: "#00838F"
